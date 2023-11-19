@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Matt Spear",
   "scripts": {
-    "dev": "nodemon src/index.js",
+    "dev": "node src/index.js",
     "build": "tsc",
     "start": "node src/index.js"
   },
